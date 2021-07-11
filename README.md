@@ -1,1 +1,5 @@
-[![youkwhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkwhd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+    <img
+    src="https://img.shields.io/discord/761823944328085534?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"
+    />
+</p>
