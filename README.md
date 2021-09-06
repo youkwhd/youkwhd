@@ -1,5 +1,5 @@
-<h1>computer enthusiast</h1>
-<p>self-taught dev, thanks for coming by. check out my website <a href="https://youkwhd.github.io" target="blank">here</a>, You're a Fungi.</p>
+# computer enthusiast
 
-<img src="https://media3.giphy.com/media/eIfr9oo1UIdvIiARDL/giphy.gif?cid=ecf05e47mpuebjryri185c1s38u9updm9zm3bj3tj7nyuux0&rid=giphy.gif&ct=g" alt="wonky image"></img>
+self-taught dev, thanks for coming by. check out my website [here](https://youkwhd.github.io), You're a Fungi.
 
+![trashg](https://media3.giphy.com/media/eIfr9oo1UIdvIiARDL/giphy.gif?cid=ecf05e47mpuebjryri185c1s38u9updm9zm3bj3tj7nyuux0&rid=giphy.gif&ct=g)
