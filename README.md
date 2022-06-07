@@ -1,5 +1,5 @@
-# computer enthusiast
+<img src="https://media.giphy.com/media/dZ9dMeS1udDDljFIRR/giphy.gif" height="200" />
+<img src="https://media.giphy.com/media/ZFLRXCLdais6IwF5wh/giphy.gif" height="200" />
 
-self-taught dev, thanks for coming by. check out my website [here](https://youkwhd.vercel.app), You're a Fungi.
-
-![trashg](https://media3.giphy.com/media/eIfr9oo1UIdvIiARDL/giphy.gif?cid=ecf05e47mpuebjryri185c1s38u9updm9zm3bj3tj7nyuux0&rid=giphy.gif&ct=g)
+<!-- https://media3.giphy.com/media/eIfr9oo1UIdvIiARDL/giphy.gif -->
+<!-- https://media.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.gif -->
