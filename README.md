@@ -1,1 +1,2 @@
-<img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" height="200" /> <img src="https://c.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif" height="200" /> <img src="https://c.tenor.com/8aHCSO8WCwsAAAAj/uguu-uguubear.gif" height="200" /> <img src="https://c.tenor.com/U-XE486arkUAAAAi/chika-fujiwara-chika.gif" height="200" />
+<!-- <img src="https://c.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" height="200" /> <img src="https://c.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif" height="200" /> <img src="https://c.tenor.com/8aHCSO8WCwsAAAAj/uguu-uguubear.gif" height="200" /> <img src="https://c.tenor.com/U-XE486arkUAAAAi/chika-fujiwara-chika.gif" height="200" /> -->
+[ragnarok](https://media.giphy.com/media/3KUxf5XnxdEegwJD7U/giphy.gif)
