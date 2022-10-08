@@ -8,6 +8,6 @@
 
 # youkwhd 🦑 
 
-$.vercel.app - no monee no domain, canceled poorman
+youkwhd.vercel.app - no monee$ no domain, canceled poorman
 
 up for an intern position around Bandung
