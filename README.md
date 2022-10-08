@@ -3,10 +3,7 @@
 <!-- https://media3.giphy.com/media/eIfr9oo1UIdvIiARDL/giphy.gif -->
 <!-- https://media.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.gif -->
 
-
-<!-- 🗽🍱🍚🍜🐝🐜🐌🦋🐛🐞🕷️🕸️🦂🦀🦐 🦑 🐙🦈🐡🐠🐬🐟🐋🐉🐲🐍🦎🐢🐊 -->
-
-# youkwhd 🐡 
+# youkwhd 🦐
 
 youkwhd.vercel.app - no monee$ no domain, canceled poorman
 
