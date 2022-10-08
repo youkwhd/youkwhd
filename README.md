@@ -10,4 +10,4 @@
 
 youkwhd.vercel.app - no monee$ no domain, canceled poorman
 
-up for an intern position around Bandung
+hmu for an intern position around bandung
