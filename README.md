@@ -6,7 +6,7 @@
 
 <!-- 🗽🍱🍚🍜🐝🐜🐌🦋🐛🐞🕷️🕸️🦂🦀🦐 🦑 🐙🦈🐡🐠🐬🐟🐋🐉🐲🐍🦎🐢🐊 -->
 
-# youkwhd 🦑 
+# youkwhd 🐡 
 
 youkwhd.vercel.app - no monee$ no domain, canceled poorman
 
