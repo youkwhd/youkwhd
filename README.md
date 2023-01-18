@@ -5,6 +5,6 @@
 
 # youkwhd 🦐✨
 
-youkwhd.vercel.app - no monee$ no domain, canceled poorman
+youkwhd.com - no monee$, canceled poorman maintaing pearl harbor
 
 hmu for an intern position around bandung
