@@ -1,6 +1,6 @@
 youkwhd 🦐✨
 ==========
 
-youkwhd.com - no monee$, canceled poorman maintaining pearl harbor
+youkwhd.com - no monee$, canceled poorman.
 
-hmu for an intern position around bandung
+I like the word shrimp without any reason, it is magik.
